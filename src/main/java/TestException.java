@@ -1,5 +1,6 @@
 public class TestException {
     public static void main(String[] args) throws MyArraySizeException {
+
         String[][] arr4x4 = {{"1", "2", "3", "4"},
                 {"1", "2", "3", "4"},
                 {"1", "2", "3", "4"},
